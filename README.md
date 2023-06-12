@@ -12,16 +12,7 @@ There is a file somewhere on disk with ASCII text (any book in English). JAVA pr
 
 **How to launch?**
 
-Compile code from "src" folder
-
-  javac Main.java
-Launch program
-
-  java Main {path to .txt file}
-Example
-
-  java Main ../newTestFile.txt // Relative path
-  java Main /Users/alinakabashkina/NewTaskForAgroup/newTestFile.txt // Absolute Path
+Command line: git clone https://github.com/krstnvt/ASCII-text-sorting.git
 
 **What was used?**
 
